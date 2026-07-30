@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
- <img src=<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/68b2f264-52db-4948-bb44-e1149e5d5da6" 
- alt="Coding" width="700"/>
+ <img src=https://www.magnific.com/free-photo/programming-background-with-person-working-with-codes-computer_38669459.htm#fromView=keyword&page=1&position=28&uuid=fc0fdf02-4f69-4cdb-9c36-8b16ee554582&query=Coding+gif alt="Coding" width="700"/>
 </p>
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
