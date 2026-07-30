@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Nikhil Gurung
 
-<!--
-**nikhil7672/nikhil7672** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🌱 Learning Full Stack Development
+- 🎯 Goal: Become a Senior Full Stack Developer
+- 📍 India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+## 🚀 Current Focus
+
+- Building Full Stack Projects
+- Learning React
+- Improving Backend Skills
+
+## 📫 Connect With Me
+
+- Portfolio: YOUR_PORTFOLIO_LINK
+- LinkedIn: YOUR_LINKEDIN_LINK
+- GitHub: https://github.com/nikhil7672
