@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
- <img src=<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/68b2f264-52db-4948-bb44-e1149e5d5da6" />
+ <img src=<img width="2000" height="1333" alt="image" src="https://github.com/user-attachments/assets/68b2f264-52db-4948-bb44-e1149e5d5da6" 
  alt="Coding" width="700"/>
 </p>
 
