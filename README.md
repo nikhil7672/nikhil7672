@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="YOUR_GIF_LINK" alt="coding" width="700"/>
+  <img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B3ZGdrYzFlbmE5dHlhNXpmMG1rbmxvbXYwc3Q0NGRuaTQxdml3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif alt="coding" width="700"/>
 </p>
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL & MongoDB**
 
-- 📫 How to reach me **YOUR_EMAIL@gmail.com**
+- 📫 How to reach me **nikhilgurung103@gmail.com**
 
 - 📄 Know about my experience **https://www.linkedin.com/in/nikhil-gurung/**
 
