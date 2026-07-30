@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
-  <img https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B3ZGdrYzFlbmE5dHlhNXpmMG1rbmxvbXYwc3Q0NGRuaTQxdml3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gifwidth="700"/>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3B3ZGdrYzFlbmE5dHlhNXpmMG1rbmxvbXYwc3Q0NGRuaTQxdml3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding" width="700"/>
 </p>
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
