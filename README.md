@@ -1,31 +1,46 @@
-# Hi 👋 I'm Nikhil Gurung
+<h1 align="center">Hi 👋, I'm Nikhil Gurung</h1>
+<h3 align="center">Full Stack Developer from India</h3>
 
-## 💻 About Me
+<p align="center">
+  <img src="YOUR_GIF_LINK" alt="coding" width="700"/>
+</p>
 
-- 🌱 Learning Full Stack Development
-- 🎯 Goal: Become a Senior Full Stack Developer
-- 📍 India
+- 🔭 I'm currently working on **Full Stack Web Applications**
 
-## 🛠️ Skills
+- 🌱 I'm currently learning **TypeScript, Next.js, PostgreSQL, Docker, AWS, CI/CD, System Design & AI Integration**
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
-- Express.js
-- MongoDB
-- Git
-- GitHub
+- 👯 I'm looking to collaborate on **Open Source and Full Stack Projects**
 
-## 🚀 Current Focus
+- 🤝 I'm looking for opportunities to contribute to **real-world software projects**
 
-- Building Full Stack Projects
-- Learning React
-- Improving Backend Skills
+- 👨‍💻 All of my projects are available at **https://my-portfolio-kenzo.netlify.app/**
 
-## 📫 Connect With Me
+- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL & MongoDB**
 
-- Portfolio: YOUR_PORTFOLIO_LINK
-- LinkedIn: YOUR_LINKEDIN_LINK
-- GitHub: https://github.com/nikhil7672
+- 📫 How to reach me **YOUR_EMAIL@gmail.com**
+
+- 📄 Know about my experience **https://www.linkedin.com/in/nikhil-gurung/**
+
+- ⚡ Fun fact: **I enjoy building projects and learning new technologies.**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/nikhil-gurung/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://github.com/nikhil7672" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+</p>
+
+---
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,git,github,vscode,postman" />
+</p>
