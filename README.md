@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer from India</h3>
 
 <p align="center">
-  <img src="./assets/programming-background.jpg" alt="Coding" width="700"/>
+  <img src="" alt="Coding" width="700"/>
 </p>
 
 - 🔭 I'm currently working on **Full Stack Web Applications**
