@@ -5,21 +5,17 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="700"/>
 </p>
 
-- 🔭 I'm currently working on **Full Stack Web Applications**
+🔭 I'm currently working on **Full Stack Web Applications**
 
-- 🌱 I'm currently learning **TypeScript, Next.js, PostgreSQL, Docker, AWS, CI/CD, System Design & AI Integration**
+🌱 I'm currently learning **TypeScript, Next.js, PostgreSQL, Docker, AWS & System Design**
 
-- 👯 I'm looking to collaborate on **Open Source and Full Stack Projects**
+💼 I'm currently looking for **Software Developer Internship / Full-Time Opportunities**
 
-- 🤝 I'm looking for opportunities to contribute to **real-world software projects**
+👨‍💻 All of my projects are available at **https://my-portfolio-kenzo.netlify.app/**
 
-- 👨‍💻 All of my projects are available at **https://my-portfolio-kenzo.netlify.app/**
+💬 Ask me about **JavaScript, React, Next.js, Node.js & PostgreSQL**
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next.js, Node.js, Express.js, PostgreSQL & MongoDB**
-
-- 📫 How to reach me **nikhilgurung103@gmail.com**
-
-- 📄 Know about my experience **https://www.linkedin.com/in/nikhil-gurung/**
+📫 Reach me at **nikhilgurung103@gmail.com**
 
 - ⚡ Fun fact: **I enjoy building projects and learning new technologies.**
 
