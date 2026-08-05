@@ -36,12 +36,13 @@
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">📊 GitHub Stats:</h3>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=nikhil7672&show_icons=true&theme=radical" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil7672&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhil7672&show_icons=true&theme=radical" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=nikhil7672&theme=radical" height="165"/>
 </p>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil7672&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil7672&layout=compact&theme=radical" height="165"/>
 </p>
